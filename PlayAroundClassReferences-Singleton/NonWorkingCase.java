@@ -15,11 +15,11 @@ public static void main(String args[])
 	 a.printInstanceHashcode();
 	 b.close();
 	// a.close();
-	 MySingleton c = MySingleton.getInstance();
-	 System.out.println("c: "+c.hashCode());
-	 a.printInstanceHashcode();
-	 b.printInstanceHashcode();
-	 c.printInstanceHashcode();
+	// MySingleton c = MySingleton.getInstance();
+	// System.out.println("c: "+c.hashCode());
+	// a.printInstanceHashcode();
+	// b.printInstanceHashcode();
+	 //c.printInstanceHashcode();
 
 	 
 }
